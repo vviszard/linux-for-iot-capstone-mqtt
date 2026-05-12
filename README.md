@@ -145,4 +145,3 @@ Smaller scripts written while learning bash, each isolating one concept.
 - Bash
 - Mosquitto (MQTT broker)
 - Ubuntu Linux
-- 
